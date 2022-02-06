@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to a nice slide!"
 ---
-Dit is een nieuwe text die hier komt te staan.
+Dit is een nieuwe text die hier komt te staan DUH.
 Use the left arrow to go back!
